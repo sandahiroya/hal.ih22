@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    /* height: 100vh; */
+}
+
+li{
+    list-style: none;
+}
+aside{
+    width: 15%;
+    color: #FFFFFF;
+    padding: 50px 40px;
+    background-color: #ED7478;
+    display: block;
+}
+
+
+aside a{
+    color: #FFFFFF;
+}
+
+aside *{
+    padding-bottom: 15px;
+}
+
+aside h2{
+    padding-top: 30px;
+}
+a{
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #ED7478;
+    padding: 10px 15px;
+}
+
+header{
+    background-color: #ED7478;
+    color: #FFFFFF;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1{
+    font-size: 40px;
+    letter-spacing: 0.3em;
+    margin-left: 50px;
+    height: 100vh;
+}
+.logout input{
+    color: #f8f8f8;
+    text-align: center;
+    background-color: #ED7478;
+    width: 100px;
+    height: 30px;
+}
+.top{
+    color: #ED7478;
+}
+
+#button{
+    margin-top: 20px;
+}
+
+main{
+    margin-top: 30px;
+    text-align: center;
+}
+
+main span{
+    margin-left: 30px;
+    /* width: 100%; */
+    /* text-align: left; */
+}
+
+span{
+    font-weight: bold;
+    /* text-align: left; */
+}
+
+.content {
+    margin-bottom: 100px;
+    /* padding-bottom: 10%; */
+}
+
+#submit{
+    margin-top:30px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #ED7478;
+    border: none;
+    width: 70px;
+    /* height: 40px; */
+    
+}
+.history01{
+    /* padding-left: 30%; */
+    position: relative;
+    left: 30%;
+    
+}
+img{
+    padding-left: 5%;
+    max-width: 55%;
+    height: auto;
+}
+.stanp{
+    padding-top: 10%;
+}
+.nothing{
+    padding-left: 150%;
+    padding-top: 20%;
+    width: 300px;
+}
+td{
+    width: 200px;
+    height: auto;
+
+}
+form a{
+    padding-top: 10%;
+}
